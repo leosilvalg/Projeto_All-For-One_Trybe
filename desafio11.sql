@@ -1,0 +1,1 @@
+select notes from purchase_orders where notes between 'Purchase generated bases on Order #20' AND 'Purchase generated bases on Order #39';
